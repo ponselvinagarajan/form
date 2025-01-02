@@ -1,0 +1,15 @@
+@media(max-width:768px){
+    .col_1{
+        width: 100%;
+    }
+    .col_2{
+        width: 100%;
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+    }
+    .col img{
+        width: 100%;
+    }
+}
